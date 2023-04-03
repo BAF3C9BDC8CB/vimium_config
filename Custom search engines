@@ -1,0 +1,15 @@
+bd: https://www.baidu.com/s?wd=%s 百度
+gl: https://www.google.com/search?q=%s 谷歌
+w: http://en.wikipedia.org/wiki/Special:Search?search=%s 维基百科
+yt: http://www.youtube.com/results?search_query=%s 油管
+git: https://github.com/search?q=%s github​
+zh: https://www.zhihu.com/search?type=content&q=%s 知乎
+tb: https://tieba.baidu.com/f?ie=utf-8&kw=%s&fr=search 贴吧
+bz: https://search.bilibili.com/all?keyword=%s B站
+tx: https://v.qq.com/x/search/?q=%s 腾讯
+aqi: https://so.iqiyi.com/so/q_%s 爱奇艺
+yk: https://so.youku.com/search_video/q_%s 优酷
+wb: https://s.weibo.com/weibo?q=%s 微博
+bili: https://search.bilibili.com/all?keyword=%s 嘀哩嘀哩
+wapj: http://zhannei.baidu.com/cse/site?q=%s&cc=52pojie.cn&ie=gbk 吾爱破解
+gfy: https://translate.google.com/?sl=en&tl=zh-CN&text=%s 谷歌翻译
